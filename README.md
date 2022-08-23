@@ -1,2 +1,2 @@
-# Analysis-of-Algorithms
+# Analysis of Algorithms
 Activities made in the course
